@@ -18,5 +18,4 @@ as an argument. The script will parse the file and output a clean list of all
 filenames that failed to upload. For an even faster workflow, this list can be
 used with search utilities like Everything by voidtools. By joining the
 filenames with a "|" (OR) operator, you can quickly locate all the files at
-once for a batch re-upload. The "NotebookLM source manager" browser extension
-can then be used to automatically handle any duplicates
+once for a batch re-upload. 
